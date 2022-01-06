@@ -1,0 +1,112 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.focus-mission-area{
+    display: flex;
+   
+}
+.mission-content{
+    width: 50%;
+    padding:5%;    
+}
+.mission-content img{
+   padding-left: 5%;
+}
+.mission-border h1{
+    border-left: 5px solid rgba(10, 95, 50, 0.753);
+    padding-left:2%;
+
+}
+.mission-year{
+    color: rgba(5, 124, 45, 0.781);
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+h2{
+    font-size:40px;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+}
+h4{
+    margin-top:40px;
+    font-weight: 400;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(10, 95, 50, 0.753),rgba(104, 75, 8, 0.897));
+    padding:10px 40px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+    display:inline-block
+}
+.my-mission22{
+    margin-bottom: 150px;
+}
+.mission-vission-goals{
+    display: flex;
+    padding:10px 20px;  
+}
+.mission-content{
+    width: 33%;
+    margin:20px;
+    border-radius: 20px;
+}
+.mission-content img{
+    max-width: 100%;
+}
+#content1{
+    background-color: rgba(238, 176, 236, 0.5);
+}
+#content2{
+    background-color: rgba(152, 251, 152, 0.507);
+}
+#content3{
+    background-color: rgba(248, 161, 146, 0.452);
+}
+.documentation-area1{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+.doc-image{
+    width: 40%;
+    padding-left:10%;
+}
+.doc-image img{
+    max-width: 80%;
+    
+}
+.doc-text{
+    width: 60%;
+    padding-right:10%;
+}
+.documentation-area2{
+    display: flex;
+    margin-bottom: 150px;
+}
+.doc-image2{
+    width: 40%;
+    padding-left:10%;
+}
+.doc-image2 img{
+    max-width: 80%;
+    
+}
+.doc-text2{
+    width: 60%;
+    padding-left:10%;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding:20px 40px;
+
+}
